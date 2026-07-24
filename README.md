@@ -1,198 +1,155 @@
 <div align="center">
 
-# ⚡ Krishnam Namithaa
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Krishnam%20Namithaa&fontAlign=50&fontAlignY=38&fontSize=60&animation=fadeIn&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58"/>
 
-### AI Engineer • Software Engineer • Building Intelligent Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=950&lines=🤖+AI+Engineer;🚀+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;☁️+Cloud+Explorer;💡+Building+Real+World+Solutions;🌍+Always+Learning+Something+New"/>
 
-*"Turning ideas into intelligent software with AI, data, and modern engineering."*
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Production-Ready+Applications;Always+Learning+Always+Building" />
+<img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software-Engineer-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/FullStack-Developer-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open-Source-E91E63?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧠 Engineering Philosophy
+# 🌌 About Me
 
-I don't just write code—I design systems that solve real-world problems.
+```yaml
+Name: Krishnam Namithaa
 
-My work combines:
+Role: AI Engineer
 
-🧠 Artificial Intelligence
+Education:
+  - Integrated M.Tech in Computer Science & Engineering
 
-⚙️ Software Engineering
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+  - NLP
+  - Generative AI
+  - Full Stack Development
+  - Cloud Computing
+  - Data Analytics
 
-📊 Data Analytics
-
-☁️ Cloud Computing
-
-🌐 Full Stack Development
-
-Every project I build focuses on clean architecture, scalability, and practical impact.
-
----
-
-# 🚀 Current Mission
-
-Building AI-powered applications that help people make smarter decisions.
-
-Currently exploring:
-
-* 🤖 Generative AI
-* 🧩 AI Agents
-* 🔍 Retrieval-Augmented Generation (RAG)
-* 👁️ Computer Vision
-* 💬 Natural Language Processing
-* 📈 Intelligent Analytics Dashboards
-* ☁️ Cloud-Native Applications
+Mission:
+  Build intelligent software that creates real-world impact.
+```
 
 ---
 
-# 🛠 Tech Arsenal
+# ⚡ Tech Universe
 
-### Languages
+### 💻 Languages
 
-Java • Python • JavaScript • SQL
-
-### AI & Machine Learning
-
-TensorFlow
-
-PyTorch
-
-Scikit-learn
-
-LangChain
-
-Sentence Transformers
-
-Transformers
-
-OpenCV
-
-### Backend
-
-Spring Boot
-
-REST APIs
-
-JWT
-
-Node.js
-
-Express.js
-
-### Frontend
-
-React
-
-Tailwind CSS
-
-HTML
-
-CSS
-
-Bootstrap
-
-### Databases
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-### Cloud & DevOps
-
-AWS
-
-Docker
-
-Kubernetes
-
-Git
-
-GitHub
-
-Jenkins
-
----
-
-# 🧩 Signature Projects
-
-### 🧠 AI Medical Assistant
-
-AI-powered healthcare assistant using modern LLM workflows and semantic search.
-
----
-
-### 📊 HR Analytics Intelligence Platform
-
-Enterprise dashboard for workforce analytics featuring executive KPIs, recruitment insights, payroll metrics, and predictive attrition analysis.
-
----
-
-### 📄 AI Resume Intelligence System
-
-Resume analysis with semantic matching, ATS scoring, and job-description comparison.
-
----
-
-### 🍔 Smart Food Ordering Platform
-
-Full Stack application with authentication, role-based access, and scalable backend architecture.
-
----
-
-### 🌐 Personal Portfolio
-
-A modern portfolio showcasing projects, technical expertise, certifications, and engineering journey.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnamnamithaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamnamithaa&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql"/>
 </p>
 
-<p align="center">
+### 🎨 Frontend
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamnamithaa&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+</p>
 
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+### 🤖 AI & ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+TensorFlow • PyTorch • LangChain • Transformers • Scikit-learn • OpenCV
+
+### ☁ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github"/>
 </p>
 
 ---
 
-# 🌍 Let's Connect
+# 🚀 Featured Projects
 
-📧 **[krishnamnamithaa.work@gmail.com](mailto:krishnamnamithaa.work@gmail.com)**
+🧠 AI Medical Assistant
 
-💼 LinkedIn
+📊 HR Analytics Dashboard
 
-https://linkedin.com/in/krishnam-namithaa-990666297
+📄 AI Resume Analyzer
 
-🌐 Portfolio
+🍔 Food Ordering Platform
 
-https://v0-portfolio-deployment-8t-lrh02ikpa-namiithaas-projects.vercel.app/
+🌐 Portfolio Website
 
-🐙 GitHub
+---
 
-https://github.com/krishnamnamithaa
+# 📊 GitHub Insights
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=krishnamnamithaa&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamnamithaa&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamnamithaa&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishnamnamithaa&theme=radical&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamnamithaa&theme=react-dark"/>
+
+</div>
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="mailto:krishnamnamithaa.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/krishnam-namithaa-990666297">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/krishnamnamithaa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-## 💭 Personal Motto
+## 💜 *"Engineering Intelligence. Building the Future."*
 
-> **"Great software isn't just built—it learns, adapts, and creates impact."**
-
-⭐ *If one of my projects inspires or helps you, consider starring the repository.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
-
