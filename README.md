@@ -1,132 +1,206 @@
-<div align="center">
+# <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Krishnam%20Namithaa&fontAlign=50&fontAlignY=38&fontSize=60&animation=fadeIn&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:FF0080&height=280&section=header&text=Krishnam%20Namithaa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Software%20Developer%20|%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=950&lines=🤖+AI+Engineer;🚀+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;☁️+Cloud+Explorer;💡+Building+Real+World+Solutions;🌍+Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00F5FF&lines=🤖+AI+Engineer;💻+Software+Developer;🚀+Full+Stack+Developer;📊+Data+Analytics+Enthusiast;☁️+Cloud+Explorer;🌍+Always+Learning+Something+New"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software-Engineer-00C853?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/FullStack-Developer-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data-Analytics-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open-Source-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/krishnamnamithaa?style=for-the-badge&logo=github&label=Followers&color=blueviolet"/>
+
+<img src="https://komarev.com/ghpvc/?username=krishnamnamithaa&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/stars/krishnamnamithaa?style=for-the-badge&logo=github&label=Stars"/>
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 👋 About Me
 
-```yaml
-Name: Krishnam Namithaa
+🎓 **Integrated M.Tech in Computer Science & Engineering**
 
-Role: AI Engineer
+🤖 AI Engineer passionate about building intelligent applications using modern AI, Machine Learning, Cloud, and Full Stack technologies.
 
-Education:
-  - Integrated M.Tech in Computer Science & Engineering
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - NLP
-  - Generative AI
-  - Full Stack Development
-  - Cloud Computing
-  - Data Analytics
-
-Mission:
-  Build intelligent software that creates real-world impact.
-```
+💡 I enjoy solving real-world problems through software engineering, analytics, and automation.
 
 ---
 
-# ⚡ Tech Universe
+# 🚀 Currently Working On
 
-### 💻 Languages
+* 🤖 AI Applications
+* 📊 HR Analytics Dashboard
+* 🌐 Full Stack Applications
+* ☁️ Cloud Projects
+* 📚 Open Source Contributions
+
+---
+
+# 🌟 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Natural Language Processing
+* Computer Vision
+* Full Stack Development
+* Cloud Computing
+* Data Analytics
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql"/>
+
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
 </p>
 
-### ⚙ Backend
+### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
 </p>
 
-### 🤖 AI & ML
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
 </p>
 
-TensorFlow • PyTorch • LangChain • Transformers • Scikit-learn • OpenCV
-
-### ☁ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github"/>
+
 </p>
+
+### AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+TensorFlow • PyTorch • LangChain • Transformers • Scikit-learn • OpenCV • Sentence Transformers
 
 ---
 
 # 🚀 Featured Projects
 
-🧠 AI Medical Assistant
+### 🤖 AI Medical Assistant
 
-📊 HR Analytics Dashboard
+Modern AI-powered healthcare assistant using LLMs and semantic search.
 
-📄 AI Resume Analyzer
+---
 
-🍔 Food Ordering Platform
+### 📊 HR Analytics Dashboard
 
-🌐 Portfolio Website
+Executive dashboard featuring workforce insights, recruitment analytics, payroll metrics, performance monitoring, and predictive attrition analysis.
+
+---
+
+### 📄 ATS Resume Analyzer
+
+AI-powered resume analysis platform with ATS scoring and semantic job matching.
+
+---
+
+### 🍔 Food Ordering Platform
+
+Full Stack application built with Spring Boot, React, JWT Authentication, and MySQL.
+
+---
+
+### 🌐 Portfolio Website
+
+Modern responsive portfolio showcasing projects, certifications, and technical expertise.
 
 ---
 
 # 📊 GitHub Insights
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=krishnamnamithaa&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=krishnamnamithaa&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamnamithaa&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamnamithaa&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnamnamithaa&layout=compact&theme=radical&hide_border=true"/>
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishnamnamithaa&theme=radical&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Activity
+# 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamnamithaa&theme=react-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishnamnamithaa&theme=radical&no-frame=true&no-bg=true&column=4"/>
 
-</div>
+</p>
 
 ---
 
-# 🌍 Connect
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamnamithaa&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnamnamithaa&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishnamnamithaa&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishnamnamithaa&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnamnamithaa&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishnamnamithaa&theme=radical&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -135,21 +209,25 @@ TensorFlow • PyTorch • LangChain • Transformers • Scikit-learn • OpenC
 </a>
 
 <a href="https://linkedin.com/in/krishnam-namithaa-990666297">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/krishnamnamithaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💭 Quote
+
 <div align="center">
 
-## 💜 *"Engineering Intelligence. Building the Future."*
+### *"Building intelligent software that solves real-world problems."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+⭐ **If you enjoy my work, consider starring a repository and connecting with me!**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9FF,100:FF0080&height=120&section=footer"/>
