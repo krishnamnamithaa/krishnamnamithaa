@@ -1,98 +1,156 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Krishnam Namithaa**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Integrated+M.Tech+Graduate;Data+Analytics+%7C+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+%7C+Power+BI;Spring+Boot+%7C+React+%7C+AWS;Building+Projects+That+Solve+Real+Problems" />
-</p>
+# ⚡ Krishnam Namithaa
 
-<p align="center">
-  <a href="https://github.com/krishnamnamithaa">
-    <img src="https://img.shields.io/github/followers/krishnamnamithaa?label=Followers&style=for-the-badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=krishnamnamithaa&style=for-the-badge"/>
-</p>
+### AI Engineer • Software Engineer • Building Intelligent Systems
 
----
+*"Turning ideas into intelligent software with AI, data, and modern engineering."*
 
-# 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Engineer;Machine+Learning+Developer;Full+Stack+Developer;Building+Production-Ready+Applications;Always+Learning+Always+Building" />
 
-🎓 Integrated M.Tech Graduate in Computer Science & Engineering
-
-💻 Passionate about Data Analytics, Full Stack Development, Cloud Computing and AI.
-
-📊 Building enterprise-level dashboards and scalable applications.
-
-🌱 Currently learning:
-
-* Advanced SQL
-* Data Engineering
-* System Design
-* Cloud Architecture
-
-🎯 Goal:
-Contribute to impactful open-source projects while building software that creates real-world value.
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🧠 Engineering Philosophy
+
+I don't just write code—I design systems that solve real-world problems.
+
+My work combines:
+
+🧠 Artificial Intelligence
+
+⚙️ Software Engineering
+
+📊 Data Analytics
+
+☁️ Cloud Computing
+
+🌐 Full Stack Development
+
+Every project I build focuses on clean architecture, scalability, and practical impact.
+
+---
+
+# 🚀 Current Mission
+
+Building AI-powered applications that help people make smarter decisions.
+
+Currently exploring:
+
+* 🤖 Generative AI
+* 🧩 AI Agents
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 👁️ Computer Vision
+* 💬 Natural Language Processing
+* 📈 Intelligent Analytics Dashboards
+* ☁️ Cloud-Native Applications
+
+---
+
+# 🛠 Tech Arsenal
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+Java • Python • JavaScript • SQL
 
-### Frontend
+### AI & Machine Learning
 
-React • HTML • CSS • Tailwind CSS • Bootstrap
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+LangChain
+
+Sentence Transformers
+
+Transformers
+
+OpenCV
 
 ### Backend
 
-Spring Boot • Spring Security • REST APIs • JWT • Node.js • Express.js
+Spring Boot
 
-### Database
+REST APIs
 
-MySQL • PostgreSQL • MongoDB
+JWT
 
-### Data Analytics
+Node.js
 
-Power BI • Pandas • NumPy • Matplotlib • Excel
+Express.js
 
-### DevOps & Cloud
+### Frontend
 
-AWS • Docker • Kubernetes • Jenkins • Git • GitHub
+React
 
-### AI / ML
+Tailwind CSS
 
-TensorFlow • PyTorch • LangChain • Sentence Transformers
+HTML
+
+CSS
+
+Bootstrap
+
+### Databases
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+### Cloud & DevOps
+
+AWS
+
+Docker
+
+Kubernetes
+
+Git
+
+GitHub
+
+Jenkins
 
 ---
 
-# ⭐ Featured Projects
+# 🧩 Signature Projects
 
-## 📊 HR Analytics Dashboard
+### 🧠 AI Medical Assistant
 
-Enterprise HR dashboard with employee insights, recruitment analytics, attrition analysis, payroll metrics, attendance, KPIs and executive reports.
-
-## 🍔 Food Ordering Platform
-
-Spring Boot + React + JWT Authentication + MySQL.
-
-## 📄 ATS Resume Analyzer
-
-AI-powered resume analysis with ATS score prediction and JD matching.
-
-## 🏥 Medical AI Projects
-
-Deep Learning models for healthcare analytics and disease prediction.
-
-## 🌐 Personal Portfolio
-
-Modern responsive portfolio showcasing projects, skills and achievements.
+AI-powered healthcare assistant using modern LLM workflows and semantic search.
 
 ---
 
-# 📈 GitHub Stats
+### 📊 HR Analytics Intelligence Platform
+
+Enterprise dashboard for workforce analytics featuring executive KPIs, recruitment insights, payroll metrics, and predictive attrition analysis.
+
+---
+
+### 📄 AI Resume Intelligence System
+
+Resume analysis with semantic matching, ATS scoring, and job-description comparison.
+
+---
+
+### 🍔 Smart Food Ordering Platform
+
+Full Stack application with authentication, role-based access, and scalable backend architecture.
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern portfolio showcasing projects, technical expertise, certifications, and engineering journey.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -110,46 +168,31 @@ Modern responsive portfolio showcasing projects, skills and achievements.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌍 Let's Connect
 
-<p align="center">
+📧 **[krishnamnamithaa.work@gmail.com](mailto:krishnamnamithaa.work@gmail.com)**
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishnamnamithaa&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+💼 LinkedIn
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnamnamithaa&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: **[krishnamnamithaa.work@gmail.com](mailto:krishnamnamithaa.work@gmail.com)**
-
-💼 LinkedIn:
 https://linkedin.com/in/krishnam-namithaa-990666297
 
-🌐 Portfolio:
+🌐 Portfolio
+
 https://v0-portfolio-deployment-8t-lrh02ikpa-namiithaas-projects.vercel.app/
 
-🐙 GitHub:
+🐙 GitHub
+
 https://github.com/krishnamnamithaa
 
 ---
 
-# 💭 Quote
+<div align="center">
 
-> *"Build solutions that matter. Keep learning. Stay consistent."*
+## 💭 Personal Motto
 
----
+> **"Great software isn't just built—it learns, adapts, and creates impact."**
 
-⭐ **Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories and let's connect.**
+⭐ *If one of my projects inspires or helps you, consider starring the repository.*
+
+</div>
 
